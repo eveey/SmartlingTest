@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="capita_arrow_down" translatable="false">\u2193</string>
+    <string name="capita_arrow_right" translatable="false">\u0152</string>
+    <string name="capita_arrow_up" translatable="false">\u2191</string>
+
+    <string name="cubano_arrow_down" translatable="false">\u00ab</string>
+    <string name="cubano_arrow_up" translatable="false">\u00bb</string>
+
+    <string name="system_arrow_up" translatable="false">\u2197</string>
+    <string name="system_arrow_down" translatable="false">\u2198</string>
+
+    <string name="invite_url_whats_app" translatable="false">http://bitly.com/WhatsApp-Share</string>
+    <string name="invite_url_email" translatable="false">http://bitly.com/Email-Share</string>
+    <string name="invite_url_trade_share" translatable="false">http://bitly.com/Trade-Share</string>
+    <string name="invite_url_sms_share" translatable="false">http://bit.ly/sms-invite</string>
+
+    <string name="settings_section_debug" translatable="false">Debug</string>
+
+    <string name="settings_section_feature_switch" translatable="false">Features</string>
+    <string name="history_balance_tab" translatable="false">Balance</string>
+    <string name="feature_switch_trade_roulette" translatable="false">Trade Roulette</string>
+    <string name="trade_roulette_feeling_lucky" translatable="false">I\'m Feeling Lucky</string>
+    <string name="trade_roulette_cant_trade" translatable="false">Not so lucky this time</string>
+
+    <string name="feature_switch_transparency" translatable="false">Transparency</string>
+    <string name="history_balance_result" translatable="false">Result Balance</string>
+    <string name="history_balance_profit_and_loss" translatable="false">Profit/Loss</string>
+    <string name="history_balance_fees" translatable="false">Fees</string>
+    <string name="history_balance_net_cash" translatable="false">Net Cash</string>
+    <string name="history_balance_net_dividends" translatable="false">Net Dividends</string>
+    <string name="history_balance_profit_and_loss_open" translatable="false">Open</string>
+    <string name="history_balance_profit_and_loss_realized" translatable="false">Realized</string>
+    <string name="history_balance_fees_trading" translatable="false">Trading</string>
+    <string name="history_balance_fees_financing" translatable="false">Financing</string>
+    <string name="history_balance_fees_deposit" translatable="false">Deposit</string>
+    <string name="history_balance_net_cash_deposits" translatable="false">Deposits</string>
+    <string name="history_balance_net_cash_withdrawals" translatable="false">Withdrawals</string>
+    <string name="history_balance_net_cash_bonuses" translatable="false">Bonuses</string>
+    <string name="history_balance_net_cash_others" translatable="false">Others</string>
+    <string name="history_balance_net_dividends_paid" translatable="false">Paid</string>
+    <string name="history_balance_net_dividends_received" translatable="false">Received</string>
+</resources>
