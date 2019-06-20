@@ -4205,4 +4205,8 @@
     <string name="withdrawal_started_manual_text">At the moment, for ​this type of withdrawal, funds will be debited from your account only when the request has been ​manually processed by Customer Support.\n\nPlease note that opening subsequent positions after this request may have an impact on the amount that can be returned to you.</string>
     <!-- Title for the manual message in the Withdrawal Started Screen -->
     <string name="withdrawal_started_manual_title">Your withdrawal is being processed</string>
+
+    <!-- Test new text -->
+    <string name="new_text">New text</string>
+
 </resources>
