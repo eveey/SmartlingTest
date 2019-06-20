@@ -1,0 +1,2 @@
+# SmartlingTest
+Test for Smartling
