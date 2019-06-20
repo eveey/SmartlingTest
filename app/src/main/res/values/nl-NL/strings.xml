@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <!-- Test new text -->
+    <string name="new_text">Translated New Text</string>
+
+    <!-- Test new text 2-->
+    <string name="new_text2">Translated New Text 2</string>
+
+    <!-- Test new text 3-->
+    <string name="new_text3">Translated New Text 3</string>
+
+</resources>
