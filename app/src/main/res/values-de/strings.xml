@@ -10,4 +10,7 @@
     <!-- Test new text 4-->
     <string name="new_text4">New Text 4</string>
 
+    <!-- Test new text 5-->
+    <string name="new_text5">New Text 5 German</string>
+
 </resources>

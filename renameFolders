@@ -1,4 +1,6 @@
 #!/bin/bash
 cd ~/Documents/SmartlingTest/app/src/main/res
-sudo mv -f -v values-nl-NL values-nl
-sudo mv -f -v values-de-DE values-de
+rm -rf values-nl
+mv -f -v values-nl-NL values-nl
+rm -rf values-de
+mv -f -v values-de-DE values-de
