@@ -1,6 +1,14 @@
 #!/bin/bash
-cd ~/Documents/SmartlingTest/app/src/main/res
-rm -rf values-nl
-mv -f -v values-nl-NL values-nl
-rm -rf values-de
-mv -f -v values-de-DE values-de
+cd $(pwd)/app/src/main/res
+
+if [ -d "values-nl-NL" ]; then
+    rm -rf values-nl
+    mv -f -v values-nl-NL values-nl
+    echo "Moved NL"
+fi
+
+if [ -d "values-de-DE" ]; then
+    rm -rf values-de
+    mv -f -v values-de-DE values-de
+    echo "Moved DE"
+fi
