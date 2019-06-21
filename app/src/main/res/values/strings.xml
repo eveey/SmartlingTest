@@ -13,4 +13,9 @@
     <!-- Test new text 6-->
     <string name="new_text6">New text 6</string>
 
+    <plurals name="new_text7">
+        <item quantity="one" formatted="true">New text 7 one</item>
+        <item quantity="other" formatted="true">New text 7 other</item>
+    </plurals>
+
 </resources>

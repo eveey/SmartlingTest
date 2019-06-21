@@ -1,14 +1,50 @@
 #!/bin/bash
 cd $(pwd)/app/src/main/res
 
+if [ -d "values-ca-ES" ]; then
+    rm -rf values-ca
+    mv -f -v values-ca-ES values-ca
+    echo "Moved Catalan"
+fi
+
+if [ -d "values-da-DK" ]; then
+    rm -rf values-da
+    mv -f -v values-da-DK values-da
+    echo "Moved Danish"
+fi
+
 if [ -d "values-nl-NL" ]; then
     rm -rf values-nl
     mv -f -v values-nl-NL values-nl
-    echo "Moved NL"
+    echo "Moved Dutch"
+fi
+
+if [ -d "values-fr-FR" ]; then
+    rm -rf values-fr
+    mv -f -v values-fr-FR values-fr
+    echo "Moved French"
 fi
 
 if [ -d "values-de-DE" ]; then
     rm -rf values-de
     mv -f -v values-de-DE values-de
-    echo "Moved DE"
+    echo "Moved German"
+fi
+
+if [ -d "values-it-IT" ]; then
+    rm -rf values-it
+    mv -f -v values-it-IT values-it
+    echo "Moved Italian"
+fi
+
+if [ -d "values-es-ES" ]; then
+    rm -rf values-es
+    mv -f -v values-es-ES values-es
+    echo "Moved Spanish"
+fi
+
+if [ -d "values-sv-SE" ]; then
+    rm -rf values-sv
+    mv -f -v values-sv-SE values-sv
+    echo "Moved Swedish"
 fi
