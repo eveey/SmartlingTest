@@ -7,10 +7,15 @@
     <!-- Test new text 3-->
     <string name="new_text3">Translated New Text 3</string>
 
-    <!-- Test new text 4-->
-    <string name="new_text4">Translated New Text 4</string>
-
     <!-- Test new text 5-->
-    <string name="new_text5">Translated New Text 5 Dutch</string>
+    <string name="new_text5">Changed text NL</string>
+
+    <!-- Test new text 6-->
+    <string name="new_text6">Translated New Text 6 Dutch</string>
+
+    <plurals name="new_text7">
+        <item quantity="one">Translated 7 one</item>
+        <item quantity="other">Translated 7 other</item>
+    </plurals>
 
 </resources>
