@@ -1,2 +1,2 @@
 # SmartlingTest
-Test for Smartling
+Smartling Sandbox project
