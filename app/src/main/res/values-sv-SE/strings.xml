@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <!-- Test new text -->
+    <string name="new_text">New text</string>
+
+    <!-- Test new text 2-->
+    <string name="new_text2">Some text</string>
+
+    <!-- Test new text 3-->
+    <string name="new_text3">New text 3</string>
+
+    <!-- Test new text 5-->
+    <string name="new_text5">Wrong text</string>
+
+    <!-- Test new text 6-->
+    <string name="new_text6">New text 6</string>
+
+    <string name="welcome_message">Välkommen till vår app!</string>
+
+    <plurals name="new_text7">
+        <item quantity="one">New text 7 one</item>
+        <item quantity="other">New text 7 other</item>
+    </plurals>
+
+</resources>
