@@ -20,7 +20,7 @@
 
 
 <!--    say goodbye!-->
-    <string name="goodbye">Adjö!</string>
+    <string name="goodbye">Adjö! 👋🏻</string>
 
     <plurals name="new_text7">
         <item quantity="one">New text 7 one</item>
