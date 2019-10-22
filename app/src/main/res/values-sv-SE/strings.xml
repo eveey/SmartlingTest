@@ -16,11 +16,11 @@
     <!-- Test new text 6-->
     <string name="new_text6">New text 6</string>
 
-    <string name="welcome_message">Welcome to our app!</string>
+    <string name="welcome_message">Välkommen till vår app!</string>
 
     <plurals name="new_text7">
-        <item quantity="one" formatted="true">New text 7 one</item>
-        <item quantity="other" formatted="true">New text 7 other</item>
+        <item quantity="one">New text 7 one</item>
+        <item quantity="other">New text 7 other</item>
     </plurals>
 
 </resources>
