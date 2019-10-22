@@ -18,6 +18,10 @@
 
     <string name="welcome_message">Welcome to our app!</string>
 
+
+<!--    say goodbye!-->
+    <string name="goodbye">Goodbye!</string>
+
     <plurals name="new_text7">
         <item quantity="one" formatted="true">New text 7 one</item>
         <item quantity="other" formatted="true">New text 7 other</item>
