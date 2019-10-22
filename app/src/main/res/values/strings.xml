@@ -16,8 +16,7 @@
     <!-- Test new text 6-->
     <string name="new_text6">New text 6</string>
 
-<!--    Testing adding a new string-->
-    <string name="dragos_test">Test Dragos</string>
+    <string name="welcome_message">Welcome to our app!</string>
 
     <plurals name="new_text7">
         <item quantity="one" formatted="true">New text 7 one</item>
