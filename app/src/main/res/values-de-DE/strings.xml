@@ -16,7 +16,11 @@
     <!-- Test new text 6-->
     <string name="new_text6">New Text 5 German</string>
 
-    <string name="welcome_message">Willkommen in unserer App!</string>
+    <string name="welcome_message">Willkommen in unserer App! 🤓</string>
+
+
+<!--    say goodbye!-->
+    <string name="goodbye">Auf Wiedersehen!</string>
 
     <plurals name="new_text7">
         <item quantity="one">Translated 7 one</item>
