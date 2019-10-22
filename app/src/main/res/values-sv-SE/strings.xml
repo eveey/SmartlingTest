@@ -18,6 +18,10 @@
 
     <string name="welcome_message">Välkommen till vår app!</string>
 
+
+<!--    say goodbye!-->
+    <string name="goodbye">Adjö!</string>
+
     <plurals name="new_text7">
         <item quantity="one">New text 7 one</item>
         <item quantity="other">New text 7 other</item>
